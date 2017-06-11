@@ -22,3 +22,4 @@ var app;
             .controller("DefectListCtrl", DefectListCtrl);
     })(defectList = app.defectList || (app.defectList = {}));
 })(app || (app = {}));
+//# sourceMappingURL=defectListCtrl.js.map

@@ -54,3 +54,4 @@ var app;
             .controller("CommentDetailCtrl", CommentDetailCtrl);
     })(defectCommentDetail = app.defectCommentDetail || (app.defectCommentDetail = {}));
 })(app || (app = {}));
+//# sourceMappingURL=commentDetailCtrl.js.map

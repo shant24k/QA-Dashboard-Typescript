@@ -26,3 +26,4 @@ var app;
             .otherwise("/recentDefects");
     }
 })(app || (app = {}));
+//# sourceMappingURL=app.js.map

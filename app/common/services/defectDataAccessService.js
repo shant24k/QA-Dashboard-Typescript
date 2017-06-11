@@ -33,3 +33,4 @@ var app;
             .service("defectDataAccessService", DefectDataAccessService);
     })(common = app.common || (app.common = {}));
 })(app || (app = {}));
+//# sourceMappingURL=defectDataAccessService.js.map

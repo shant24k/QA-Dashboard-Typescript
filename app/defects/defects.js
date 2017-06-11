@@ -14,3 +14,4 @@ var app;
         domain.Defect = Defect;
     })(domain = app.domain || (app.domain = {}));
 })(app || (app = {}));
+//# sourceMappingURL=defects.js.map
